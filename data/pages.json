@@ -52,5 +52,10 @@
         "label": "NewRelic",
         "url": "https://status.newrelic.com/",
         "icon": "images/newrelic.png"
+    },
+    {
+        "label": "openSUSE",
+        "url": "https://status.opensuse.org/",
+        "icon": "images/opensuse.png"
     }
 ]
